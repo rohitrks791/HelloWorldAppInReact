@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+SC:wght@500&family=Russo+One&display=swap');
+body{
+    background-color: #b0f;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    background-color: #ff21dd;
+}
+h1{
+        color: #b0f;
+        font-family: 'Russo One';
+        text-transform: uppercase;
+        font-size: 50px;
+        font-weight: normal;
+}
+span{
+    font-size: 70px;
+}
+p{
+    font-family: 'Encode Sans SC';
+    font-size: 30px;
+    text-align: center;
+
+}
+
+.rspan{
+    font-family: 'Russo One';
+    font-size: 45px;
+    color: #b0f;
+}
+
+.button{
+   margin-right: 10px;
+   margin-left: 150px;
+   margin-bottom: 30px;
+   background-color: black;
+   text-transform: uppercase;
+   border: none;
+   color: white;
+   padding: 15px 32px;
+   text-align: center;
+   text-decoration: none;
+     
+   font-size: 16px;
+   transition-duration: 0.4s;
+
+}
+
+.button:hover {
+    background-color: #b0f; 
+    color: white;
+        
+}
+
